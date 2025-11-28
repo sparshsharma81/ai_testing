@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+chromadb
+sentence-transformers
+numpy
+python-dotenv
+google-genai            # optional — only if you plan to call Gemini API
+httpx                   # for making HTTP calls if needed
+gunicorn

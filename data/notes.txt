@@ -1,0 +1,152 @@
+🌙 1. Basic Concepts of Vedic Astrology
+
+Vedic astrology uses 12 houses, 9 planets, and 12 zodiac signs to interpret a person’s life.
+
+Birth chart (D1 / Lagna Chart) shows the physical world events—career, marriage, personality, health.
+
+Ascendant (Lagna) determines mentality, physical traits, and major life direction.
+
+Each house represents different life themes:
+
+1st house – self, body, personality
+
+2nd house – wealth, family
+
+3rd house – courage, communication
+
+4th house – home, mother
+
+5th house – education, creativity
+
+6th house – enemies, illness
+
+7th house – marriage, partnerships
+
+8th house – transformation, secrets
+
+9th house – luck, dharma
+
+10th house – career, reputation
+
+11th house – gains, social circle
+
+12th house – losses, foreign land
+
+🌞 2. Planet Meanings
+
+Sun – soul, father, authority, government.
+
+Moon – mind, emotions, mother, stability.
+
+Mars – energy, aggression, courage.
+
+Mercury – intelligence, communication, business.
+
+Jupiter – wisdom, luck, expansion, children.
+
+Venus – love, luxury, marriage, comfort.
+
+Saturn – discipline, restrictions, delay, hard work.
+
+Rahu – illusion, obsession, foreign elements.
+
+Ketu – detachment, spirituality, past-life karma.
+
+🔭 3. Planet Strength Rules (Common Interpretations)
+
+Planets are strong when in exaltation or in own sign.
+
+Planets weaken in debilitation.
+
+A planet in Kendra or Trikona becomes powerful.
+
+Retrograde planets behave with unusual strength.
+
+Combust planets lose power near the Sun.
+
+🏠 4. House-Lord Interpretations
+
+Examples:
+
+1st lord in 10th → strong career focus, leadership qualities.
+
+7th lord in 5th → love marriage possibilities.
+
+10th lord in 2nd → wealthy family or income from family business.
+
+5th lord in 9th → success in education, luck increases.
+
+💍 5. Marriage Indicators
+
+7th house + Venus + Navamsa (D9) decide marriage.
+
+Strong Venus = good marriage, romance.
+
+Malefics (Mars, Saturn, Rahu) may delay marriage.
+
+Jupiter transit over 7th house or Venus heightens marriage chances.
+
+💼 6. Career Indicators
+
+10th house and 10th lord show profession type.
+
+Sun → government, leadership
+
+Saturn → engineering, labour, machinery
+
+Mercury → communication, business
+
+Mars → defence, police, surgery
+
+Venus → arts, beauty, luxury
+
+Jupiter → teaching, finance, law
+
+🪐 7. Rahu & Ketu Interpretations
+
+Rahu: Gives foreign success, unconventional path, sudden rise.
+
+Ketu: Brings detachment, technical intelligence, spiritual quests.
+
+🧿 8. Common Chart Reading Rules
+
+If ascendant, its lord, and Moon are strong → stable life.
+
+If 10th lord is exalted → strong career rise.
+
+If Venus + Moon strong → luxury and comfort.
+
+If Saturn afflicted → delays, struggles.
+
+If Rahu in 1st or 10th → big fame but unstable.
+
+🌀 9. Example Q&A for the Model to Learn
+
+Q: If someone has Mars in the 7th house, what does it mean?
+A: It may cause aggressive partners, conflicts, or delay in marriage. Person must learn emotional balance.
+
+Q: What if Jupiter is in the 10th house?
+A: Career growth, respect, leadership, teaching or consulting field.
+
+Q: What does Rahu in 11th house indicate?
+A: Big gains, foreign influence, huge social network.
+
+📌 10. Interpretation Template for Your Bot
+
+Use this as part of data so your bot always follows a format:
+
+Chart Interpretation Template:
+
+Ascendant Meaning
+
+Strength of House Lords
+
+Major Yogas
+
+Marriage Analysis
+
+Career Analysis
+
+Financial Analysis
+
+Overall Summary
